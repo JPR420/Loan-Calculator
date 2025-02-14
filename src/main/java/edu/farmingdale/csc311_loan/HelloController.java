@@ -11,9 +11,6 @@ import java.util.EventListener;
 public class HelloController {
 
     @FXML
-    private Label welcomeText;
-
-    @FXML
     private Label annualInterestLabel;
     @FXML
     private Label numYearsLabel;
