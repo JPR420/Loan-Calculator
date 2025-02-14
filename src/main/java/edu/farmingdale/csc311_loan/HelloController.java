@@ -36,7 +36,6 @@ public class HelloController {
     @FXML
     private Button calculateButton;
 
-
     public void calculate(ActionEvent actionEvent) {
             try {
                 double loanAmount = Double.parseDouble(loanTextField.getText());
